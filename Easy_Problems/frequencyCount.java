@@ -7,4 +7,4 @@ class frequencyCount{
     for(int i=;i i<=N; i++) arr[i-1] = freq[i];
   }
 }
-
+// https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1
